@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Az\\Documents\\Mapel\\Programming\\nilaiSiswaApp\\nilaisiswaapp.csproj": {}
+    "c:\\Users\\Az\\Documents\\Mapel\\Programming\\nilaiSiswaApp\\nilaisiswaapp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Az\\Documents\\Mapel\\Programming\\nilaiSiswaApp\\nilaisiswaapp.csproj": {
+    "c:\\Users\\Az\\Documents\\Mapel\\Programming\\nilaiSiswaApp\\nilaisiswaapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Az\\Documents\\Mapel\\Programming\\nilaiSiswaApp\\nilaisiswaapp.csproj",
+        "projectUniqueName": "c:\\Users\\Az\\Documents\\Mapel\\Programming\\nilaiSiswaApp\\nilaisiswaapp.csproj",
         "projectName": "nilaisiswaapp",
-        "projectPath": "C:\\Users\\Az\\Documents\\Mapel\\Programming\\nilaiSiswaApp\\nilaisiswaapp.csproj",
+        "projectPath": "c:\\Users\\Az\\Documents\\Mapel\\Programming\\nilaiSiswaApp\\nilaisiswaapp.csproj",
         "packagesPath": "C:\\Users\\Az\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Az\\Documents\\Mapel\\Programming\\nilaiSiswaApp\\obj\\",
+        "outputPath": "c:\\Users\\Az\\Documents\\Mapel\\Programming\\nilaiSiswaApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Az\\AppData\\Roaming\\NuGet\\NuGet.Config"

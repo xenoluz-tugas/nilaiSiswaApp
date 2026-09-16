@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("nilaisiswaapp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64496caaf1c978af50e8b64f05fffa6388a231bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("nilaisiswaapp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("nilaisiswaapp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
